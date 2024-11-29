@@ -1,6 +1,6 @@
 # Shopping Cart in CodeIgniter Source Code
 
-The Shopping Cart in CodeIgniter Source Code is developed using PHP CodeIgniter and MySQL Database as Back-End. 
+The **Shopping Cart in CodeIgniter Source Code** is developed using PHP CodeIgniter and MySQL Database as Back-End. 
 
 A **Shopping Cart in CodeIgniter** is an important part of an online store that makes it easier for customers to shop.
 
